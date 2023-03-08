@@ -2,14 +2,14 @@ import codecs
 import json
 import os
 
-TARGET_NAME = 'Ben Borszcz' #put the name of the users data you want to get
+TARGET_NAME = 'target_name' #put the name of the users data you want to get
 
 
 CONTEXT_MESSAGES = 6
 MESSAGE_MINIMUM_DELTA = 300
 MAX_TIMED_MESSAGES = 10
 
-TELEGRAM_FILE_NAME = 'Lions Den Data' #do not put .json
+TELEGRAM_FILE_NAME = 'your_telegram_groupchat_data' #do not put .json
 
 
 if not os.path.exists('Data'):
