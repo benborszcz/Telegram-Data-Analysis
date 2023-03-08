@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Python program that pulls and analyzes data from Telegram using a given telegram groupchat json data file
+This is a Python program that pulls and analyzes data from Telegram using a given telegram groupchat json data file.
 
 ## Getting Started
 
