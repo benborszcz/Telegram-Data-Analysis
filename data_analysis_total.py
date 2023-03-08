@@ -3,7 +3,7 @@ import numpy as np
 import json
 
 
-# Inout the names of the users you would like to compare into this array, max of 5
+# Input the names of the users you would like to compare into this array, max of 5
 USERS = ['User1', 'User2', 'User3', 'User4', 'User5']
 
 with open('Data\\users_with_times.json', 'r') as f:
